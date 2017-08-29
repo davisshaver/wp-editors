@@ -11,7 +11,7 @@
 // $blogfilename is the name of the default file for your blog
 // $blogname is the name of your blog
 
-$siteurl = 'http://example.com'; // Double check this, it's very important.
+$siteurl = 'http://zerodotsevenone.local/'; // Double check this, it's very important.
 $blogfilename = 'index.php';
 $blogname = "my weblog";
 $blogdescription = "babblings !";
@@ -22,8 +22,8 @@ $admin_email = 'you@example.com';
 // ** MySQL settings **
 
 define('DB_NAME', 'b2');		// The name of the database
-define('DB_USER', 'user');		// Your MySQL username
-define('DB_PASSWORD', 'pass');	// ...and password
+define('DB_USER', 'root');		// Your MySQL username
+define('DB_PASSWORD', 'root');	// ...and password
 define('DB_HOST', 'localhost');	// 99% chance you won't need to change this value    
 
 
