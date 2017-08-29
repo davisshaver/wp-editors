@@ -1,0 +1,24 @@
+[submodule "plugins/gutenberg"]
+	path = plugins/gutenberg
+	url = https://github.com/WordPress/gutenberg.git
+[submodule "plugins/edit-flow"]
+	path = plugins/edit-flow
+	url = https://github.com/Automattic/Edit-Flow.git
+[submodule "plugins/assignment-desk"]
+	path = plugins/assignment-desk
+	url = https://github.com/danielbachhuber/Assignment-Desk.git
+[submodule "plugins/shortcake"]
+	path = plugins/shortcake
+	url = https://github.com/wp-shortcake/shortcake.git
+[submodule "plugins/publishing-checklist"]
+	path = plugins/publishing-checklist
+	url = https://github.com/fusioneng/publishing-checklist.git
+[submodule "plugins/acf"]
+	path = plugins/acf
+	url = https://github.com/elliotcondon/acf.git
+[submodule "plugins/fieldmanager"]
+	path = plugins/fieldmanager
+	url = https://github.com/alleyinteractive/wordpress-fieldmanager.git
+[submodule "plugins/shortcake-bakery"]
+	path = plugins/shortcake-bakery
+	url = https://github.com/wp-shortcake/shortcake-bakery.git
